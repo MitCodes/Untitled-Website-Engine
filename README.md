@@ -1,5 +1,5 @@
 # Untitled-Website-Engine
-A simple solution to writing your own blog or website that uses no external dependencies and is highly customizable. Well defined format so backends can be created easily; currently only in typescript.
+A simple solution to create your own blog or website that uses no external dependencies and is highly customizable. Well defined format so backends can be created easily; currently only in typescript.
 
 ## Installation
 - Prereq: nodejs/npm
